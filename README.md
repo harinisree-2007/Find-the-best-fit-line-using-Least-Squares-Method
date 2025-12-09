@@ -24,9 +24,13 @@ Developed by:
 RegisterNumber:  
 */
 ```
+![WhatsApp Image 2025-12-08 at 22 18 30_b1a542cd](https://github.com/user-attachments/assets/abfdc465-3fbd-4da0-83dd-584f70a7f736)
+
 
 ## Output:
-![best fit line](sam.png)
+best fit line:
+
+![WhatsApp Image 2025-12-08 at 22 17 54_b1f7b471](https://github.com/user-attachments/assets/19b2f1b3-07e3-4530-8990-7cb857df19d6)
 
 
 ## Result:
